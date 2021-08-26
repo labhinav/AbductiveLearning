@@ -2,6 +2,8 @@
 
 Python implementation of [Abductive Learning](https://papers.nips.cc/paper/2019/file/9c19a2aa1d84e04b0bd4bc888792bd1e-Paper.pdf)
 
+An explanation of the work done in this repository is in ABL_Vid.mkv
+
 ## Setup
 
 Please run the code on Colab, some minor modifications need to be made if runnning locally. These modifications have been mentioned in the comments. Also, the output produced is more readable on Colab.
